@@ -29,5 +29,9 @@ body {
 }
 
 .btn-rem {
-    font-size: 5rem;
+    font-size: 8rem;
+}
+
+html {
+    font-size: 10px;
 }
